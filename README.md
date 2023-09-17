@@ -1,3 +1,3 @@
 # Background Changer
 
-Ex: If you click red button the background color will be red
+Ex: If you click red button the background color will be red and same goes for every button
