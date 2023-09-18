@@ -1,3 +1,3 @@
 # Background Changer
 
-[Live Link ->](https://background-changer-gamma.vercel.app/)
+[Live Link](https://background-changer-gamma.vercel.app/)
