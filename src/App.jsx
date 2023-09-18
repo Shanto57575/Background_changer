@@ -7,6 +7,9 @@ const App = () => {
 		<div
 			className={`${color} h-screen flex items-end justify-center flex-wrap pb-10`}
 		>
+			<h1 className="absolute top-0 p-10 text-3xl text-white font-serif font-bold">
+				Background Changer!
+			</h1>
 			<div className="bg-white p-2 rounded-full">
 				<button
 					onClick={() => setColor("bg-red-500")}
